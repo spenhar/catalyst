@@ -1,2 +1,2 @@
 # catalyst-gss
-Catalyst is a simple starter project using GSS for anyone interested.
+Catalyst is the first ready-to-go boilerplate with GSS.
